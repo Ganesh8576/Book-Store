@@ -1,0 +1,85 @@
+[
+    {
+        "id" : 1,
+        "name" : "CSE Books",
+        "title"  : "In the CSE category , You will acces to get the books related to computer science engineering",
+        "price" : 500,
+        "category" : "Science & Tech",
+        "image" : "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1714102423~exp=1714106023~hmac=6675c4d3da3734a93ef6e092c0fdc15b1a539cdecb1877a20f9f333c59e149d9&w=740"
+    },
+    {
+        "id" : 2,
+        "name" : "Mechanical Engineering Book",
+        "title"  : "In the Mechanical Engineering category , You will acces to get the books related to Mechanical engineering",
+        "price" : 1000,
+        "category" : "Science & Tech",
+        "image" : "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1714102423~exp=1714106023~hmac=6675c4d3da3734a93ef6e092c0fdc15b1a539cdecb1877a20f9f333c59e149d9&w=740"
+    
+    },
+    {
+        "id" : 3,
+        "name" : "Electrical Books",
+        "title"  : "In the Electrical category , You will acces to get the books related to Electrical engineering",
+        "price" : 400,
+        "category" : "Science & Tech",
+        "image" : "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1714102423~exp=1714106023~hmac=6675c4d3da3734a93ef6e092c0fdc15b1a539cdecb1877a20f9f333c59e149d9&w=740"
+    
+    },{
+        "id" : 4,
+        "name" : "Electronic Books",
+        "title"  : "In the Electronic category , You will acces to get the books related to Electronic engineering",
+        "price" : 400,
+        "category" : "Science & Tech",
+        "image" : "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1714102423~exp=1714106023~hmac=6675c4d3da3734a93ef6e092c0fdc15b1a539cdecb1877a20f9f333c59e149d9&w=740"
+    
+    },{
+        "id" : 5,
+        "name" : "Information Technology Books",
+        "title"  : "In the CSE category , You will acces to get the books related to computer science engineering",
+        "price" : 500,
+        "category" : "Science & Tech",
+        "image" : "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1714102423~exp=1714106023~hmac=6675c4d3da3734a93ef6e092c0fdc15b1a539cdecb1877a20f9f333c59e149d9&w=740"
+    
+    },{
+        "id" : 6,
+        "name" : "Story Book",
+        "title"  : "In the Story category , You will acces to get the books related to Stories",
+        "price" : 200,
+        "category" : "Story",
+        "image" : "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1714102423~exp=1714106023~hmac=6675c4d3da3734a93ef6e092c0fdc15b1a539cdecb1877a20f9f333c59e149d9&w=740"
+    
+    },{
+        "id" : 7,
+        "name" : "Law Books",
+        "title"  : "In the Law category , You will acces to get the books related to Laws",
+        "price" : 300,
+        "category" : "Law",
+        "image" : "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1714102423~exp=1714106023~hmac=6675c4d3da3734a93ef6e092c0fdc15b1a539cdecb1877a20f9f333c59e149d9&w=740"
+    
+    },{
+        "id" : 8,
+        "name" : "Novel Books",
+        "title"  : "In the Novel category , You will acces to get the books related to Novel",
+        "price" : 0,
+        "category" : "Novel",
+        "image" : "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1714102423~exp=1714106023~hmac=6675c4d3da3734a93ef6e092c0fdc15b1a539cdecb1877a20f9f333c59e149d9&w=740"
+    
+    },{
+        "id" : 9,
+        "name" : "Arts Books",
+        "title"  : "In the Art category , You will acces to get the books related to Arts",
+        "price" : 0,
+        "category" : "Free",
+        "image" : "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1714102423~exp=1714106023~hmac=6675c4d3da3734a93ef6e092c0fdc15b1a539cdecb1877a20f9f333c59e149d9&w=740"
+    
+    },{
+        "id" : 10,
+        "name" : "History Books",
+        "title"  : "In the History category , You will acces to get the books related to History",
+        "price" : 0,
+        "category" : "History",
+        "image" : "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1714102423~exp=1714106023~hmac=6675c4d3da3734a93ef6e092c0fdc15b1a539cdecb1877a20f9f333c59e149d9&w=740"
+    
+    }
+
+]

@@ -1,9 +1,8 @@
 import React, { useEffect, useState } from "react";
-
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
 import Slider from "react-slick";
-
+import list from "../../public/list.json"
 import axios from "axios";
 
 import Cards from "./Cards";
@@ -64,12 +63,11 @@ function Freebook() {
         <div>
           <h1 className="font-semibold text-xl pb-2">Free Offered Courses</h1>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-            Accusantium veritatis alias pariatur ad dolor repudiandae eligendi
-            corporis nulla non suscipit, iure neque earum?
+           Here is the some of the book which is showing bellow .
+            You can acces those books ,
+            according to your choice 
           </p>
         </div>
-
         <div>
           <Slider {...settings}>
             {book.map((item) => (
